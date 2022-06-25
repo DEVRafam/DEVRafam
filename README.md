@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Using technologies distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=devRafam&layout=compact&theme=codeSTACKr)
+![Using technologies distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacper-Ksiazek
+&layout=compact&theme=codeSTACKr)
