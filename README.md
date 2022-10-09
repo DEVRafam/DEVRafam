@@ -1,9 +1,8 @@
 <div align='center'>
-  <h1>🎉 Nice to see you here 🎉</h1>
-  
   <img src="https://i.imgur.com/isBAen6.jpg" />
   <br/> <br/>
-
+  
+  <h1>🎉 Nice to see you here 🎉</h1>
   The profile's still under construction 🏗️
   <hr/>
 
