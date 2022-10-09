@@ -1,17 +1,17 @@
-<!--
-**DEVRafam/DEVRafam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+  <h1>🎉 Nice to see you here 🎉</h1>
+  
+  <img src="https://i.imgur.com/isBAen6.jpg" />
+  <br/> <br/>
 
-Here are some ideas to get you started:
+  The profile's still under construction 🏗️
+  <hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Using technologies distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacper-Ksiazek&layout=compact&theme=dracula)
+  <br/>
+  ![Commits stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kacper-Ksiazek&theme=dracula)
+   <br/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kacper-Ksiazek&show_icons=true&hide_border=true&theme=dracula)
+  [![Streaks](https://github-readme-streak-stats.herokuapp.com?user=Kacper-Ksiazek&theme=dracula&border=DD272700)](https://git.io/streak-stats)
 
-
-![Using technologies distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacper-Ksiazek&layout=compact&theme=codeSTACKr)
+</div>
